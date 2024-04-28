@@ -31,3 +31,5 @@ Key Findings:
 •	Weather Impact: There is a noticeable correlation between temperature, wind speed, and bike ride counts, indicating that weather conditions significantly influence rider behavior. The most favorable temperature and wind speed for bike rides was 14.6 degrees and 13.7 KPH.
 •	Holiday and Weekend Effect: Further investigation into the impact of holidays and weekends on bike usage patterns provided valuable insights for urban planning and transportation management indicating increased in number of rides on weekends and holidays.
 •	Total bike rides: The total number of bike rides done in given period of data is 19905972.
+
+![london](https://github.com/Vd1299/London-Bike-Ride-Data-Analysis/assets/60086631/ae0b0d53-7137-4154-86ec-bd6cc8bc1609)
